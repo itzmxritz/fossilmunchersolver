@@ -1,0 +1,29 @@
+{
+	"schemaVersion": 1,
+	"id": "fossilmunchersolver",
+	"version": "${version}",
+	"name": "FossilMuncherSolver",
+	"description": "A simple mod that solves the Fossil Muncher quiz in Hypixel SkyBlock.",
+	"authors": [
+		"ItzMxritz"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/mod/fossilmunchersolver",
+		"sources": "https://github.com/ItzMxritz/fossilmunchersolver"
+	},
+	"license": "MIT",
+	"icon": "assets/fossilmunchersolver/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"net.itzmxritz.FossilMuncherSolver"
+		]
+	},
+	"mixins": [],
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": "~1.21.11",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
