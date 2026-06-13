@@ -2,7 +2,7 @@
 	"schemaVersion": 1,
 	"id": "fossilmunchersolver",
 	"version": "${version}",
-	"name": "FossilMuncherSolver",
+	"name": "Fossil Muncher Solver",
 	"description": "A simple mod that solves the Fossil Muncher quiz in Hypixel SkyBlock.",
 	"authors": [
 		"ItzMxritz"
